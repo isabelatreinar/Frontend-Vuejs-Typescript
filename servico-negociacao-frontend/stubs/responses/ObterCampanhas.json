@@ -1,0 +1,18 @@
+[
+    {
+     "id": 1,
+     "descricao": "Decola",
+     "maximoParcelas": 4,
+     "voltaDescontos": false,
+     "descontoJuros":1,
+     "descontoMulta": 1
+    },
+    {
+     "id": 1,
+     "descricao": "Retenção",
+     "maximoParcelas": 6,
+     "voltaDescontos": true,
+     "descontoJuros": 0.8,
+     "descontoMulta": 0.8 
+    }
+]
